@@ -1,6 +1,6 @@
 # 📘 OSQuery – Command Reference 
 
-This document contains queries and commands used for **Auditing with OSQuery **.
+This document contains queries and commands used for __Auditing with OSQuery__.
 
 ---
 
